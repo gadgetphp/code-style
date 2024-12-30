@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ruleset name="Gadget coding standards">
+<ruleset name="GadgetPHP Coding Standards">
     <description>GadgetPHP Coding Standards</description>
 
     <arg value="p"/>
